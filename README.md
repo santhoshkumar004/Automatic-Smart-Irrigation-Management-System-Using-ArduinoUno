@@ -3,7 +3,7 @@ This project was designed and developed in my final year. It was built primarily
 The main board with ATMega 328p microcontroller used here Arduino Uno . It is very useful for small scale , college level automation projects as it is very to program and the interfacing is very convenient.
 # Components Used
 1.Arduino Uno.
-2.Soil Moisture Sensor.
+\n2.Soil Moisture Sensor.
 3.16x2 lcd display & I2C Module.
 4.2x DC Motor Pump.
 5.9V Battery.
