@@ -1,6 +1,5 @@
 # Automatic-Smart-Irrigation-Management-System-Using-ArduinoUno
-This project was designed and developed in my final year. It was built primarily to benefit farmers.
-The main board with ATMega 328p microcontroller used here Arduino Uno. It is very useful for small scale , college level automation projects as it is very to program and the interfacing is very convenient.
+This project was designed and developed in my final year. It was built primarily to benefit farmers.  The main board with ATMega 328p microcontroller used here Arduino Uno. It is very useful for small scale , college level automation projects as it is very to program and the interfacing is very convenient.
 # Components Used
 1.Arduino Uno.
 2.Soil Moisture Sensor.
