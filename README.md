@@ -11,8 +11,7 @@ The Components Used for this Project are as Follows:<br><br>
 7.Jumper wires.<br>
 # Circuit Diagram
 <div style="text-align: left;">
-  <img src="![Screenshot 2024-05-20 085459](https://github.com/santhoshkumar004/Automatic-Smart-Irrigation-Management-System-Using-ArduinoUno/assets/121855152/2dc7064a-dac7-4bb0-8e46-30cf58bc408b)
-" alt="Alt text" width="300">
+  <img src="Screenshot 2024-05-20 085459" alt="Alt text" width="300">
 </div>
 
 ![Circuit diagram](https://github.com/santhoshkumar004/Automatic-Smart-Irrigation-Management-System-Using-ArduinoUno/assets/121855152/5264ed26-9e2e-4f5a-9f50-45237f20aea4)
