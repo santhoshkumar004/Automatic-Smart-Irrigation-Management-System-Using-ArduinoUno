@@ -2,13 +2,13 @@
 This project was designed and developed in my final year. It was built primarily to benefit farmers.The software used for coding is Arduino IDE 2.3.2.<br>The main board with ATMega 328p microcontroller used here Arduino Uno. It is very useful for small scale , college level automation projects as it is very to program and the interfacing is very convenient.
 # Components Used
 The Components Used for this Project are as Follows:<br><br>
-1.Arduino Uno.<br>
-2.Soil Moisture Sensor.<br>
-3.16x2 lcd display & I2C Module.<br>
-4.2x DC Motor Pump.<br>
-5.9V Battery.<br>
-6.Breadboard.<br>
-7.Jumper wires.<br>
+1. Arduino Uno.<br>
+2. Soil Moisture Sensor.<br>
+3. 16x2 lcd display & I2C Module.<br>
+4. 2x DC Motor Pump.<br>
+5. 9V Battery.<br>
+6. Breadboard.<br>
+7. Jumper wires.<br>
 # Circuit Diagram
 ![Circuit diagram](https://github.com/santhoshkumar004/Automatic-Smart-Irrigation-Management-System-Using-ArduinoUno/assets/121855152/5264ed26-9e2e-4f5a-9f50-45237f20aea4)
 # Snippets of Code
